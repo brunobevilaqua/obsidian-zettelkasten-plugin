@@ -6,6 +6,5 @@
     "name": "Bruno Bevilaqua"
   },
   "license": "MIT",
-  "keywords": ["obsidian", "zettelkasten", "notes", "pkm"],
-  "dependencies": ["kepano/obsidian-skills"]
+  "keywords": ["obsidian", "zettelkasten", "notes", "pkm"]
 }

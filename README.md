@@ -211,9 +211,14 @@ created_notes:
 
 ---
 
-## Built on kepano/obsidian-skills
+## Recommended companion: kepano/obsidian-skills
 
-This plugin depends on [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills), which provides Claude Code with deep Obsidian knowledge: Obsidian Flavored Markdown, wikilinks, callouts, Bases, Canvas, and the Defuddle web extractor. It is pulled in automatically — no extra installation needed.
+[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) gives Claude Code deep Obsidian knowledge: Obsidian Flavored Markdown, wikilinks, callouts, Bases, Canvas, and the Defuddle web extractor. Install it alongside this plugin for the best experience:
+
+```
+/plugin marketplace add https://github.com/kepano/obsidian-skills
+/plugin install obsidian@obsidian-skills --scope project
+```
 
 ---
 

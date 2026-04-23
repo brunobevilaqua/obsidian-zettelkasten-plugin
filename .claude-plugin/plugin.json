@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-zettelkasten",
+  "description": "Zettelkasten note processing for Obsidian vaults — inbox processing, researcher, and Obsidian skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bruno Bevilaqua"
+  },
+  "license": "MIT",
+  "keywords": ["obsidian", "zettelkasten", "notes", "pkm"],
+  "dependencies": ["kepano/obsidian-skills"]
+}

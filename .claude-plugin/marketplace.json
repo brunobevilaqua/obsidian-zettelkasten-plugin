@@ -1,0 +1,13 @@
+{
+  "name": "obsidian-zettelkasten",
+  "owner": {
+    "name": "Bruno Bevilaqua"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-zettelkasten",
+      "description": "Zettelkasten note processing for Obsidian vaults — inbox processing, researcher, and Obsidian skills",
+      "source": "./"
+    }
+  ]
+}

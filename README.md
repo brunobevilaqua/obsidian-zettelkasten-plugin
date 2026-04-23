@@ -70,6 +70,11 @@ Folders are created **on demand** — the vault stays clean until you have real 
 - [Obsidian](https://obsidian.md) installed
 - A vault folder with `git init` already run
 
+> [!IMPORTANT]
+> `/plugin` commands must be run from the **Claude Code desktop app or CLI**.
+> They are not available in the VS Code / JetBrains extensions.
+> Open your vault in the Claude Code desktop app to install.
+
 ---
 
 ## Installation
@@ -77,6 +82,8 @@ Folders are created **on demand** — the vault stays clean until you have real 
 ### Option 1 — Project scope (recommended)
 
 Installs the plugin only for the current vault. The configuration is checked into the vault's git repo.
+
+Open the vault in the Claude Code desktop app, then run:
 
 ```
 /plugin marketplace add https://github.com/brunobevilaqua/obsidian-zettelkasten-plugin
